@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "74403091599",
+    "firebase_url": "https://glac-e7cdb.firebaseio.com",
+    "project_id": "glac-e7cdb",
+    "storage_bucket": "glac-e7cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74403091599:android:86ae227d31c7da0b",
+        "android_client_info": {
+          "package_name": "com.glac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74403091599-sc9pjmvne9m0d1j6hj3effuah01u472m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glac",
+            "certificate_hash": "7ddcb9b2b30e9d117a862364812fd37fd9c8d6aa"
+          }
+        },
+        {
+          "client_id": "74403091599-qcq5o0nc6ip9giq5me03m4r9rm7g06e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVWyDrqkIPoI4rlY-rCxWpel049Z_Pp2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74403091599-qcq5o0nc6ip9giq5me03m4r9rm7g06e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
